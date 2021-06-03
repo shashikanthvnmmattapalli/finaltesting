@@ -12,6 +12,6 @@ workflows:
     jobs:
       - welcome/run
     filters:
-            branches:
-                - development
+      branches:
+        - development
                 
